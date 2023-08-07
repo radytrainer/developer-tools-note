@@ -34,7 +34,7 @@
 - [WAMP](https://www.wampserver.com/en/)
 
 ### 4. Design tools
-- [Figmap](https://github.com)
+- [Figma](https://github.com)
 - [Adobe XD](https://getintopc.com/?s=adobe+xd)
 - [Adobe Photoshop](https://getintopc.com/softwares/graphic-design/adobe-photoshop-2023-free-download-1559572/)
 - [Adobe illustrator](https://getintopc.com/softwares/design/adobe-illustrator-cc-2023-free-download-9980495/)
@@ -51,3 +51,31 @@
 - [Thunder Client](https://www.thunderclient.com/)
 - [API DOCS](https://elements-demo.stoplight.io/?spec=#/)
 - [Swagger](https://swagger.io/)
+
+### 7. Project Management tools
+- [Jira](https://www.atlassian.com/software/jira)
+- [GitHub Board](https://github.com)
+- [Trello](https://trello.com/)
+- [Anana](https://asana.com/)
+- [ClickUp](https://clickup.com/)
+### 8. AI Tools
+- [Google Bard](https://bard.google.com/)
+- [ChatGPT](https://chat.openai.com/auth/login)
+- [Meta AI](https://ai.meta.com/)
+
+### 9. Programming Note book
+- [GoalKicker](https://books.goalkicker.com/)
+
+### 10. YouTube Channel for Developers
+- [Traversy Media](https://www.youtube.com/@TraversyMedia)
+- [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
+- [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified)
+- [The Net Ninja](https://www.youtube.com/@NetNinja)
+- [Sonny Sangha](https://www.youtube.com/@SonnySangha)
+- [rady bmcs](https://www.youtube.com/channel/UCyrVPhME2ZRedgeiBjehPXw) (Khmer)
+
+### 11. Websites for Developers
+- [W3schools](https://www.w3schools.com/)
+- [JavaTpoint](https://www.javatpoint.com/)
+- [JavaScript Info](https://javascript.info/)
+- [Tutorialspoint](https://www.tutorialspoint.com/web_development_tutorials.htm)
